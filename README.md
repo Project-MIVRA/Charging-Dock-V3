@@ -21,6 +21,12 @@ Anyone is free to modify this, however, you must apply the same CC lisense to th
 ![image](https://github.com/user-attachments/assets/16127014-7c42-4be3-aace-aca496c2b6b4)
 > Front and back of PCB for the Charging Dock V3
 
+![image](https://github.com/user-attachments/assets/1da2a434-17ae-4b31-9724-a3d7a2000073)
+![image](https://github.com/user-attachments/assets/ca973887-ce59-44fe-8011-b5f65e07dfa2)
+![image](https://github.com/user-attachments/assets/42e30512-647e-4023-97dd-c9cc4c403bc3)
+![image](https://github.com/user-attachments/assets/7aea5fc9-e742-4453-8114-07d64b495e7a)
+> 3D Model of the Case for the Charging Dock V3. The green is the PCB, please note the USBC ports render incorrectly. The transparent yellow part is a LED cover, it is removable. The bottom grey part is the bottom plate. The top black part is the top interface. The case and PCB are designed so that you do not need to remove your straps.
+
 # Disclaimer of liability
 
 Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You. To the extent possible, in no event will the Licensor be liable to You on any legal theory (including, without limitation, negligence) or otherwise for any direct, special, indirect, incidental, consequential, punitive, exemplary, or other losses, costs, expenses, or damages arising out of this Public License or use of the Licensed Material, even if the Licensor has been advised of the possibility of such losses, costs, expenses, or damages. Where a limitation of liability is not allowed in full or in part, this limitation may not apply to You. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
