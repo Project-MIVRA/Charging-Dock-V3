@@ -13,7 +13,7 @@ This repo will contain all files for the charging dock.
 Anyone is free to modify this, however, you must apply the same CC lisense to the work and accredit me. I highly reccommend making a fork for it. Thank you.
 
 # Photos
-### 10 tracker varient coming soon
+### 10 tracker varient coming soon, DO NOT USE CURRENT DESIGN
 ![image](https://github.com/user-attachments/assets/7ea0b8a1-2b08-4ccf-9266-091401905ff1)
 > Schematic of the Charging Dock V3
 
