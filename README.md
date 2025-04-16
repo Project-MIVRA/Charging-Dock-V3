@@ -7,26 +7,33 @@ The case and PCB were designed by me (Abillow.)
 
 This repo will contain all files for the charging dock.
 
-> As of 3/27/2025 this is untested and still needs to be tested.
+> As of 4/16/2025 this is untested and still needs to be tested. The tracker cases are changing along with their diementions. This will cause issues and the design of the dock will need to be modified in order to adapt to the new case design.
 > Build instructions are yet to be made.
 
 Anyone is free to modify this, however, you must apply the same CC lisense to the work and accredit me. I highly reccommend making a fork for it. Thank you.
 
 # Photos
-### 10 tracker varient coming soon, DO NOT USE CURRENT DESIGN
-![image](https://github.com/user-attachments/assets/7ea0b8a1-2b08-4ccf-9266-091401905ff1)
+### 10 tracker varient schematic
+![image](https://github.com/user-attachments/assets/a9c13df8-7b1f-47a7-809a-13a054fb1310)
+
+
+### 8 tracker varient schematic
+*(Coming soon)*
 > Schematic of the Charging Dock V3
 
-![image](https://github.com/user-attachments/assets/01c43de7-da75-451e-92e7-fba1b2386315)
-![image](https://github.com/user-attachments/assets/16127014-7c42-4be3-aace-aca496c2b6b4)
-> Front and back of PCB for the Charging Dock V3
+### 10 tracker varient PCB
+![image](https://github.com/user-attachments/assets/1d1e5dbd-5f4c-4f1a-a9aa-77f86e2e74b3)
+![image](https://github.com/user-attachments/assets/dabb42e3-7cc7-411a-8066-d4e3ab0db035)
 
-### Expect some slight changes in the case design
-![image](https://github.com/user-attachments/assets/1da2a434-17ae-4b31-9724-a3d7a2000073)
-![image](https://github.com/user-attachments/assets/ca973887-ce59-44fe-8011-b5f65e07dfa2)
-![image](https://github.com/user-attachments/assets/42e30512-647e-4023-97dd-c9cc4c403bc3)
-![image](https://github.com/user-attachments/assets/7aea5fc9-e742-4453-8114-07d64b495e7a)
-> 3D Model of the Case for the Charging Dock V3. The green is the PCB, please note the USBC ports render incorrectly. The transparent yellow part is a LED cover, it is removable. The bottom grey part is the bottom plate. The top black part is the top interface. The case and PCB are designed so that you do not need to remove your straps.
+### 8 tracker varient PCB
+*(coming soon)*
+
+
+
+## Case Design canadate 
+
+*(Coming soon)*
+
 
 # Disclaimer of liability
 
